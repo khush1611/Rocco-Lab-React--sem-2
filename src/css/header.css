@@ -1,0 +1,37 @@
+  
+/*`````````````````````````````*/
+/*header*/
+/*`````````````````````````````*/
+.header-wrapper{ 
+    background-color: cornsilk;
+} 
+
+.delivery_truck_image{ 
+    position: absolute;
+    top:25em;
+    left: 60em;
+}
+
+.header{ padding: 2em;}
+
+.navigation{}
+
+.navigation-onClick{ flex-wrap: nowrap !important; align-items: flex-start !important;}
+
+.navigation__website_logo{ max-width: 10em;}
+
+.navigation__website_logo--mobile-view{ max-width: 3em; display: none;}
+
+.navigation__ul-listing{ margin-left: auto;}
+
+.navigation__ul-listing li{ margin: 0 2em; }
+
+.navigation-ul-onclick{ display: inline !important; margin-left: 0 !important; }
+
+.navigation__ul-listing a{ color: #686666; font-size: 1.2em;}
+
+.navigation__ul-listing a:hover{ color: #000000; font-size: 1.2em;}
+
+.section-hamburger{ margin-left: auto;}
+
+.hamburger-menu{ max-width: 3em; display: none;}
